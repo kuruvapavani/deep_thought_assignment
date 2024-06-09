@@ -33,4 +33,3 @@ document.addEventListener("DOMContentLoaded", function() {
     expandedContentBtm.style.display = "none";
   });
 });
-
